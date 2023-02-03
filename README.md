@@ -8,9 +8,7 @@ This repository contains the source code of CountriesApp's Android client.
 - [About](#about)
 - [Usage](#usage)
   - [Installation](#installation)
-  - [Contribution](#contribution)
 - [Gallery](#gallery)
-- [License](#license)
 
 ## About
 CountryApp is country's catalog application, using which costumer can find country location and infromation about it.
