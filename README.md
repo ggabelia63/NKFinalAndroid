@@ -22,7 +22,7 @@ You can open this app on your android phone or in [Android Studio](https://devel
 This is the recommended and most straightforward method. First, clone the repository with:
 
 ```
-$ 
+$ https://github.com/ggabelia63/NKFinalAndroid
 ```
 - Or you can download ZIP file of repository
 - Next must download [Android Studio](https://developer.android.com/studio) app
